@@ -10,7 +10,7 @@ A* search for the Hanoi problem with any initial condition
 ## Features
 [//]: # (Add the features of your project here:)
 
-- **A**** — Informed search algorithm;
+- **A*** — Informed search algorithm;
 - **Prolog** —  Logic programming language associated with artificial intelligence and computational linguistics;
 - **Hanoi problem** — Explained above.
 
