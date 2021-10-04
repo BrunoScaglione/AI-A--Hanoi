@@ -1,6 +1,6 @@
 
 <h1 align="center">
-A* search for the Hanoi problem with any initial condition
+A* search for the Hanoi problem, with any initial condition.
 </h1>
 
 <p align="center">
